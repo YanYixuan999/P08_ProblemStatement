@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProblemStatement</string>
+
+    <string-array name="spinner_array">
+        <item></item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
